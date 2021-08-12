@@ -2,6 +2,8 @@
 *.swp
 *.log
 
+/wiki/
+
 /target/
 /Cargo.lock
 
